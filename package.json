@@ -1,0 +1,19 @@
+{
+  "name": "curly-goggles",
+  "version": "1.0.0",
+  "description": "A URL Shortener app using Firebase Express React and Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reharri7/curly-goggles.git"
+  },
+  "author": "Rhett Harrison reharri7@asu.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reharri7/curly-goggles/issues"
+  },
+  "homepage": "https://github.com/reharri7/curly-goggles#readme"
+}
